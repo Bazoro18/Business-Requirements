@@ -1,0 +1,25 @@
+Easy Question :- Launching a new B2B SaaS platform for Small Business. Identify 5 KPI's.
+Answer :-
+Business KPI -
+    - Achieve 50,000 Monthly Revenue.
+    - Attain Customer Retention Rate of 90%.
+    - Reach 100 Paying Customers within 6 months.
+Operational Metrics - 
+    - Average Customer Onboarding < 3 days.
+    - Customer First Response Time < 2 hours.
+    - System Up Time > 99.9%
+Data KPI - 
+    - User Profile data loading < 2 seconds.
+    - Customer Contact Information accuracy > 99%.
+
+Medium Question :- KPI hierarchy for omnichannel retail
+Answer :- 
+Business KPI - 
+    - Increase cross-channel conversion rate by 15%.
+    - Improve net promoter score (NPS) from 70 to 80.
+Operational Metrics - 
+    - Reduce average order fulfillment time by 20%.
+    - Reduce the rate of returns by 10% within 6 months.
+Data KPI - 
+    - Maintain Real-time inventory accuracy across all channels at > 98%.
+    - Personalized recommendation generation time < 200ms
