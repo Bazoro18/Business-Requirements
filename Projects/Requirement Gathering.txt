@@ -1,0 +1,41 @@
+Easy Question :- Design a Stakeholder Requirement Matrix for Mock Retail System.
+Answer :-
+Stakeholder Groups :
+    1. Customers
+    2. Retail Store Managers
+    3. Retail Store Staff
+    4. Suppliers
+    5. IT / Development Team
+    6. Marketing Team
+    7. Finance Team
+    8. Legal / Compliance Team
+
+Key Requirements or Expectations :
+    1. Customers - Easy product browsing or search; secure and convenient online transactions; Accurate order tracking and delivering; Responsive customer support.
+    2. Retail Store Managers - Real-time inventory visibility across stores; Effecient POS system; Simplified staff management and scheduling; Accessible Sales and Product reports.
+    3. Retail Store Staff - Easy to use POS system; Clear procedures for task {return handling, exchanges}; Easy to use inventory management tools.
+    4. Suppliers - Automated order placement and tracking; Timely payments and clear communication on terms.
+    5. IT / Development Team - Well defined Technical Requirements; Effective Infrastructure; Effective issue tracking mechanisms.
+    6. Marketing Team - Detailed customer insights; Easy to use tools for managing campaigns that integrates with Social Media platforms.
+    7. Finance Team - Clear concise reports about sales and transactions {returns and exchanges as well}; Easy to use tools for tallying and accounting.
+    8. Legal / Compliance Team - {Expectations} - Compliant with GDPR/PII policy; Handle law suits with Customer and within Organisation.
+
+Medium Question :- Design a Business Requirement Document (BRD) for small E-commerce Analytics Dashboard.
+Answer :-
+An Business Requirement Document consists of a Purpose / Objective; Stakeholder Mapping; Functional Requirements; Non Functional Requirements.
+    1. Purpose - Goal is to generate an Analytics Dashboard for an organisation which will help business understand various trends like - Customer Behaviour, Sales Trends, Product Performance etc.
+    2. Objective - Improve Customer Engagement; Improve Sales and Revenue; Optimize Product Strategy.
+    3. Stakeholder Mapping - 
+        3.1. Business C suite / Owner - Primary decision maker.
+        3.2. Marketing Team - Will leverage the Dashboard.
+        3.3. Product Team - Will utilize insights for Product Development.
+        3.4. Business Team - Will bridge the communication between Stakeholder's and Technical Teams.
+        3.5. Development Team - Will develop the Dashboard.
+    4. Functional Requirements - The Dashboard must provide following functionalities.
+        4.1. Customer Overview - Display Customer insights {CAC, CLV}.
+        4.2. Sales Overview - Display key sales metrics {Revenue, AOV, Cart Adbandonment Rate}.
+        4.3. Product Overview - Display Top selling products, Inventory levels.
+    5. Non Functional Requirements - 
+        5.1. Dashboard should load under 3 seconds.
+        5.2. Dashboard should be intuitive with filters applied for deep understanding.
+        5.3. Dashboard should have Accurate Data that is consistent with source.
